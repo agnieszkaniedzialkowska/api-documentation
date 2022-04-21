@@ -38,7 +38,7 @@ Since plugins in Centra can share the same URI (for allowing the same URI to be 
 
 ![Plugin list](plugin-list.png)
 
-You can access this plugin also by the following path: `/api/checkout/52/`. This will make sure the URL does not suddenly use a different plugin if you would add multiple plugins with the same URI in the future. The "Absolute API Endpoint" will be shown in the plugin settings.
+You can access this plugin also by the following path: `/api/checkout/16/`. This will make sure the URL does not suddenly use a different plugin if you would add multiple plugins with the same URI in the future. The "Absolute API Endpoint" will be shown in the plugin settings.
 
 ## Authentication
 
