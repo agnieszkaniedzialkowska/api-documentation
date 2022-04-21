@@ -10,7 +10,7 @@ Ingrid is a shipping platform that can be used together with Centra in order to 
 
 ## Setting up the Ingrid plugin in Centra
 
-To set up the Ingrid plugin, head to SYSTEM->STORES and choose the store you want to use Ingrid in. The minimum requirements for the plugin to work are the following:
+To set up the Ingrid plugin, head to System-> Stores and choose the store you want to use Ingrid in. The minimum requirements for the plugin to work are the following:
 
 1. A private key in the proper format (non-base64 encoded) is supplied,
 2. A default locale is selected,
