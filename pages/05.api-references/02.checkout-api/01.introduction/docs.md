@@ -30,7 +30,7 @@ The Checkout API is a plugin that can be enabled on a B2C-store. You can select 
 
 ![Plugin list](plugin-setup.png)
 
-A plugin defined like this will be located at `/api/checkout/`.
+A plugin defined like this will be located at `/api/checkout-api/`.
 
 ### Permalink of a plugin
 
@@ -38,7 +38,7 @@ Since plugins in Centra can share the same URI (for allowing the same URI to be 
 
 ![Plugin list](plugin-list.png)
 
-You can access this plugin also by the following path: `/api/checkout/16/`. This will make sure the URL does not suddenly use a different plugin if you would add multiple plugins with the same URI in the future. The "Absolute API Endpoint" will be shown in the plugin settings.
+You can access this plugin also by the following path: `/api/checkout-api/16/`. This will make sure the URL does not suddenly use a different plugin if you would add multiple plugins with the same URI in the future. The "Absolute API Endpoint" will be shown in the plugin settings.
 
 ## Authentication
 
